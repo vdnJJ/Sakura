@@ -48,7 +48,7 @@ private:
 	{
 		{
 			{
-				"48 8B 05 ? ? ? ? 4C 8B D2 4C 8B C1"
+				"48 8B 3D ? ? ? ? 48 3B CF"
 			}, true, false, true, 0, & offsets::global::LocalPlayer
 		},
 		{
