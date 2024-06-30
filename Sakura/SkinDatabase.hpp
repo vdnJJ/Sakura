@@ -22,6 +22,7 @@ public:
 		{ "PetBallDragon",		"Poggless",			std::make_pair(1, 21)},
 		{ "PetBaron",			"Baron",			std::make_pair(3, 3)}, // wtf riot
 		{ "PetBellSwayer",		"Bell Swayer",			std::make_pair(1, 23)},
+		{ "PetBigKnifeDog",		"Knife Hound",			std::make_pair(1, 18)},
 		{ "PetBuglet",			"Flutterbug",			std::make_pair(1, 22)},
 		{ "PetBunny",			"Bun Bun",			std::make_pair(1, 33)},
 		{ "PetChibiAatrox",		"Chibi Aatrox",			std::make_pair(1, 2) },
@@ -39,11 +40,11 @@ public:
 		{ "PetChibiLux",		"Chibi Lux",			std::make_pair(1, 3)},
 		{ "PetChibiMalphite",		"Chibi Malphite",		std::make_pair(1, 2)},
 		{ "PetChibiMorgana",		"Chibi Morgana",		std::make_pair(1, 2)},
-		{ "PetChibiSett",		"Chibi Sett",				std::make_pair(1, 2)},
-		{ "PetChibiSona",		"Chibi Sona",				std::make_pair(1, 2)},
+		{ "PetChibiSett",		"Chibi Sett",			std::make_pair(1, 2)},
+		{ "PetChibiSona",		"Chibi Sona",			std::make_pair(1, 2)},
 		{ "PetChibiTeemo",		"Chibi Teemo",			std::make_pair(1, 2)},
-		{ "PetChibiTristana",		"Chibi Tristana",			std::make_pair(1, 2)},
-		{ "PetChibiVi",			"Chibi Vi",				std::make_pair(1, 1)},
+		{ "PetChibiTristana",		"Chibi Tristana",		std::make_pair(1, 2)},
+		{ "PetChibiVi",			"Chibi Vi",			std::make_pair(1, 1)},
 		{ "PetChibiYasuo",		"Chibi Yasuo",			std::make_pair(1, 3)},
 		{ "PetChibiYone",		"Chibi Yone",			std::make_pair(1, 2)},
 		{ "PetChibiZed",		"Chibi Zed",			std::make_pair(1, 2)},
@@ -64,8 +65,10 @@ public:
 		{ "PetGriffin",			"Silverwing",			std::make_pair(1, 37)},
 		{ "PetGrumpyLion",		"Furyhorn",			std::make_pair(1, 46)},
 		{ "PetHextechBirb",		"Tocker",			std::make_pair(1, 23)},
+		{ "PetHundun",		        "Hundun",			std::make_pair(1, 18)},
 		{ "PetJawDragon",		"Burno",			std::make_pair(1, 33)},
 		{ "PetKoala",			"Grizzle",			std::make_pair(1, 18)},
+		{ "PetLeopardGecko",		"Poptail",			std::make_pair(1, 18)},
 		{ "PetMiner",			"Molediver",			std::make_pair(1, 30)},
 		{ "PetMiniGolem",		"Runespirit",			std::make_pair(1, 22)},
 		{ "PetNimbleFoot",		"Nimblefoot",			std::make_pair(1, 30)},
@@ -74,24 +77,24 @@ public:
 		{ "PetPenguKnight",		"Featherknight",		std::make_pair(1, 71)},
 		{ "PetPixiMander",		"Piximander",			std::make_pair(1, 24)},
 		{ "PetPoro",			"Poro",				std::make_pair(1, 6)},
-		{ "PetPoroFluft",		"Fluft of Poros",				std::make_pair(1, 1)},
+		{ "PetPoroFluft",		"Fluft of Poros",		std::make_pair(1, 1)},
 		{ "PetPupDragon",		"Bungo",			std::make_pair(1, 18)},
 		{ "PetQiyanaDog",		"QiQi",				std::make_pair(1, 33)},
 		{ "PetRazorBeak",		"Raptors",			std::make_pair(1, 18)},
+		{ "PetScratch",		        "Scratch",			std::make_pair(1, 1)},
 		{ "PetScuttleCrab",		"Scuttle",			std::make_pair(1, 18)},
 		{ "PetSennaBunny",		"Melisma",			std::make_pair(1, 40)},
 		{ "PetSgCat",			"Dango",			std::make_pair(1, 48)},
 		{ "PetSgPig",			"Fuwa",				std::make_pair(1, 40)},
 		{ "PetSgShisa",			"Shisa",			std::make_pair(1, 42)},
 		{ "PetShark",			"Shork",			std::make_pair(1, 18)},
-		{ "PetSmolKnifeDog",	"Knife Pup",		std::make_pair(1, 18)},
+		{ "PetSmolKnifeDog",	        "Knife Pup",		        std::make_pair(1, 18)},
 		{ "PetSpiritFox",		"Hushtail",			std::make_pair(1, 45)},
 		{ "PetTftAvatar",		"River Sprite",			std::make_pair(1, 35)}, // I counted 21 idk
 		{ "PetTurtle",			"Paddlemar",			std::make_pair(1, 33)},
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
 		{ "PetVoidEye",			"Khat'Sai",			std::make_pair(1, 18)},
 		//Other models
-                //Hundun 18 Knife Hound 18 Poptail 18 Scratch 1
-		{ "TFT_ElderDragon",	"Elder Dragon"							 }
+		{ "TFT_ElderDragon",	        "Elder Dragon"							 }
 	};
 };
