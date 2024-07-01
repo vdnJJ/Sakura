@@ -90,7 +90,7 @@ public:
 		{ "PetShark",			"Shork",			std::make_pair(1, 18)},
 		{ "PetSmolKnifeDog",	        "Knife Pup",		        std::make_pair(1, 18)},
 		{ "PetSpiritFox",		"Hushtail",			std::make_pair(1, 45)},
-		{ "PetTftAvatar",		"River Sprite",			std::make_pair(1, 35)}, // I counted 21 idk
+		{ "PetTftAvatar",		"River Sprite",			std::make_pair(1, 21)},
 		{ "PetTurtle",			"Paddlemar",			std::make_pair(1, 33)},
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
 		{ "PetVoidEye",			"Khat'Sai",			std::make_pair(1, 18)},
